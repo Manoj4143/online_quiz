@@ -1,8 +1,8 @@
 # MySQL Database Configuration
 DB_CONFIG = {
-    'host': 'localhost',
-    'user': 'manu',
-    'password': 'Manojkumar#098',
+    'host': 'XYZ',
+    'user': 'XYZ',
+    'password': 'XYZ',
     'database': 'online_quiz_db',
-    'port': 3306
+    'port': 1234
 }
